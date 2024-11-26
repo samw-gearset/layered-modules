@@ -2,6 +2,10 @@
   "overlays": {
     "core": [
       "core"
+    ],
+    "UK": [
+      "core",
+      "UK"
     ]
   }
 }
